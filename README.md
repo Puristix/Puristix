@@ -4,8 +4,7 @@
 <p align="center">𝓟ony 𝓣own's 𝓢ebastian 𝓜ichaelis !</p>
 <p align="center">
   <a href="https://github.com">pony-town-nominations</a>
-</p> , <p align="center">
-  <a href="https://github.com">pt-hall-of-media</a>
+</p>  <p align="center"> <a href="https://github.com">pt-hall-of-media</a>
 </p>
 
 
