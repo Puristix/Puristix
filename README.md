@@ -5,7 +5,6 @@
 <div style="text-align: right;">
   <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a>
 <div style="text-align: left;"> <a href="https://github.com/pony-town-nominations">pony-town-nominations</a>
-</p>
 
 
 
