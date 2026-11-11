@@ -24,11 +24,11 @@
   <tr>
     <!-- First Box (Jet Black) -->
     <td bgcolor="#333333" align="center">
-      <a href="https://puriristix.atabook.org/">ata</a>
+      <a href="https://puriristix.atabook.org/">𝓪ta</a>
     </td>
     <!-- Second Box (Charcoal Gray) -->
     <td bgcolor="#333333" align="center">
-      <a href="https://puristix.straw.page/">strwpge</a>
+      <a href="https://puristix.straw.page/">𝓼trwpge</a>
     </td>
   </tr>
 </table>
