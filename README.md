@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/pony-town-nominations">pony-town-nominations</a>
   
-  ![My Image](Untitled1046_20261111222920.png)
+  ![My Image](Untitled1046_20261111223635.png)
 
 
 
