@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="![](https://komarev.com/ghpvc/?username=Puristix&color=lightgrey)" alt="Profile views" valign="middle" /> <img src="Tumblr_l_483094955820255.gif" alt="My GIF" width="250" valign="middle" />
+   ![](https://komarev.com/ghpvc/?username=Puristix&color=lightgrey) <img src="Tumblr_l_483094955820255.gif" width="50" />
 </p>    
 
 ![My Image](Untitled1055_20261125185033.png)
