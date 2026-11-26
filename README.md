@@ -24,6 +24,10 @@
 
 ![My Image](Untitled1055_20261126102427.png)
 
+<div align="center">
+     </h3>   𝓢      𓈒   「『死』とは絶望的で絶対的な『終わり』であるからこそ…美しい。」  ◠◠  ﹒﹒   </h3>
+   </div>
+
 <table align="center">
   <tr>
     <!-- First Box (Jet Black) -->
