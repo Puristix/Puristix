@@ -1,5 +1,5 @@
 ![My Image](Untitled1056_20261126101905.png)
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=puristix&color=lightgrey"
     </p>
 
