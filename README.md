@@ -28,7 +28,7 @@
      </h3>   𝓢ebastian 𝓜ichaelis:  𓈒 「『死』とは絶望的で絶対的な『終わり』であるからこそ…美しい。」  ◠◠  ﹒﹒   </h3>
    </div>
 
-![GIF](Untitled1055_20261126102427.png)
+![GIF](Tumblr_l_483094955820255.gif)
 
 
 <table align="center">
