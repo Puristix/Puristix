@@ -8,7 +8,9 @@
    ⠀𝓢ebastian 𝓜ichaelis     𓈒  !!   </h3>
    </div>
 
-   [@pt-hall-of-media](https://github.com/pt-hall-of-media) , [@pony-town-nominations](https://github.com/pony-town-nominations)
+   <div align="center">
+   </h3> [@pt-hall-of-media](https://github.com/pt-hall-of-media) , [@pony-town-nominations](https://github.com/pony-town-nominations) </h3>
+   </div>
 
 
 ![My Image](Untitled1055_20261126102427.png)
