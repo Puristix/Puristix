@@ -20,5 +20,13 @@
 
 ![My Image](Untitled1055_20261126102427.png)
 
+<div align="center">
+  </table>
+    </tr>
+     <td><a href="https://puriristix.atabook.org/"ata</a></td>
+     <td><a href="https://puristix.straw.page/">strawpage</a></td>
+    </tr>
+   </table>
+</div>   
 
     
