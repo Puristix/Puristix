@@ -8,14 +8,18 @@
    ⠀𝓢ebastian 𝓜ichaelis     𓈒  !!   </h3>
    </div>
 
-<div align="center">
-  </table>
-    </tr>
-     <td><a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a></td>
-     <td><a href="https://github.com/pony-town-nominations">@pony-town-nominations</a></td>
-    </tr>
-   </table>
-</div>   
+<table align="center">
+  <tr>
+    <!-- First Box (Jet Black) -->
+    <td bgcolor="#1a1a1a" align="center">
+      <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a>
+    </td>
+    <!-- Second Box (Charcoal Gray) -->
+    <td bgcolor="#333333" align="center">
+      <a href="https://github.com/pony-town-nominations">@pony-town-nominations</a>
+    </td>
+  </tr>
+</table>
 
 
 ![My Image](Untitled1055_20261126102427.png)
