@@ -19,4 +19,8 @@
 
 
 ![My Image](Untitled1055_20261126102427.png)
+
+[![My StrawPage](Tumblr_l_483094955820255.gif)](https://puristix.straw.page/)
+
+
     
