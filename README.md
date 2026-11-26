@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=puristix&color=lightgrey"
     </p>
 
-    <h3 align="center">
-    hi
-    </h3>
+   <div align="center">
+     </h3> hi </h3>
+   </div>
+    
