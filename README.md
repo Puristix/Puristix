@@ -24,5 +24,17 @@
 
 ![My Image](Untitled1055_20261126102427.png)
 
+<table align="center">
+  <tr>
+    <!-- First Box (Jet Black) -->
+    <td bgcolor="#1a1a1a" align="center">
+      <a href="https://puriristix.atabook.org/">atabook</a>
+    </td>
+    <!-- Second Box (Charcoal Gray) -->
+    <td bgcolor="#333333" align="center">
+      <a href="https://puristix.straw.page/">strawpage</a>
+    </td>
+  </tr>
+</table>
 
     
