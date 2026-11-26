@@ -20,7 +20,5 @@
 
 ![My Image](Untitled1055_20261126102427.png)
 
-[@pt-hall-of-media](https://github.com/pt-hall-of-media) , [@pony-town-nominations](https://github.com/pony-town-nominations)
-
 
     
